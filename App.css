@@ -1,0 +1,36 @@
+.form{
+  width: 40vw;
+  margin-left: 50vw;
+  margin-top: 30vh;
+  border: 1px solid black;
+  padding: 80px;
+  border-radius: 20px;
+}
+.form-control{
+  width: 22vw;
+}
+
+.start{
+  margin-left: 47vw;
+  padding: 20px 30px;
+  margin-top: 300px;
+}
+
+.start1{
+  margin-left: 10px;
+}
+/* list */
+
+.outerBox{
+  width: 30vw;
+  height: 40vw;
+  margin-top: 5vw;
+  text-align: center;
+}
+
+.list{
+  display:flex;
+}
+/* for List */
+
+
